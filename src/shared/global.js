@@ -1,6 +1,8 @@
 import { createGlobalStyle, css } from 'styled-components';
 import { color, typography } from './styles';
 
+export const fontUrl = 'https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap';
+
 export const bodyStyles = css`
   font-family: ${typography.type.primary};
   font-size: ${typography.size.s3}px;
