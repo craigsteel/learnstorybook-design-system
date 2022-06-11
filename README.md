@@ -80,4 +80,5 @@ If you encounter an issue with the template, we encourage you to open an issue i
 
 1. Read our introductory tutorial over at [Storybook tutorials](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
 2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
-2. See our official documentation at [Storybook](https://storybook.js.org/).
+3. See our official documentation at [Storybook](https://storybook.js.org/).
+4. Publish Online using [Chromatic](https://chromatic.com). faster UIs with automated workflows for [Example Storybook](https://chromatic.com/build?appId=62a4b674eb711463ef398c00&number=1).
